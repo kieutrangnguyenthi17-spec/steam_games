@@ -46,25 +46,35 @@ This project analyzes a dataset of Steam games to explore trends in popularity, 
 * Identified games with the highest number of owners
 * Highlighted the most successful titles
 
+ ![top_games.png](images/top_games.png)
+
 ### 2. Price vs Ratings
 
 * Analyzed relationship between price and user ratings
 * Found weak correlation between price and satisfaction
+
+![price_vs_rating.png](images/price_vs_rating.png)
 
 ### 3. Top Developers
 
 * Identified developers with the most published games
 * Observed dominance of major studios
 
+![top_developers.png](images/top_developers.png)
+
 ### 4. CCU Distribution
 
 * Analyzed concurrent player counts
 * Most games have low player activity with a few outliers
 
+![ccu_distribution.png](images/ccu_distribution.png)
+
 ### 5. Correlation Analysis
 
 * Examined relationships between numerical features
 * Found moderate correlation between ratings and ownership
+
+![correlation_heatmap.png](images/correlation_heatmap.png)
 
 ---
 
